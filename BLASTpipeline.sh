@@ -14,3 +14,7 @@ for SRA_number in $(cut -f 6 data/metadata/fierer_forensic_hand_mouse_SraRunTabl
 do
     fastq-dump -v $SRA_number -O data/raw_data
 done
+
+# create QC reports for each run
+fastqc data/raw_data/*.fastq --outdir=output/fastqc
+
