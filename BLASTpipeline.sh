@@ -18,11 +18,11 @@ done
 echo "downloaded raw data"
 
 # create QC reports for each run
-fastqc data/raw_data/*.fastq --outdir=output/fastqc
+echo fastqc data/raw_data/*.fastq --outdir=output/fastqc
 
 # make directory for trimmed sequences and trimmed .fastas
 echo "making trimmed sequence directories..."
-mkdir data/trimmed_seqs data/trimmed_fasta
+mkdir data/trimmed_seqs data/trimmed_fasta output/BLAST_results
 echo "made trimmed sequence directories"
 
 # trim sequences based on quality scores
@@ -38,6 +38,14 @@ echo "trimmed .fastq files"
 echo "creating .fasta copies of trimmed sequences..."
 for trimmed in data/trimmed_seqs/*.trim.fastq
 do
-	bioawk -c fastx '{print ">"$name"\n"$seq}' $trimmed > data/trimmed_fasta/$(basename -s .trim.fastq $trimmed).fasta
+	bioawk -c fastx '{print ">"$name"\n"$seq}' $trimmed > data/trimmed_fasta/$(basename -s .fastq $trimmed).fasta
 done
 echo "created .fasta copies of trimmed sequences"
+
+# search BLAST for sequence matches for cleaned .fastas
+echo "searching BLAST database for sequence matches..."
+for fasta_seq in data/trimmed_fasta/*.trim.fasta
+do
+	blastn -db /blast-db/nt -num_threads 2 -outfmt '10 sscinames std' -out output/BLAST_results/$(basename -s .trim.fasta $fasta_seq).csv -max_target_seqs 1 -negative_gilist /blast-db/2017-09-21_GenBank_Environmental_Uncultured_to_Exclude.txt -query $fasta_seq
+done
+echo "searched BLAST database for sequence matches"
