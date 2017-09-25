@@ -12,5 +12,5 @@ if [ -z ${BLASTDB} ]; then source /home/.bashrc; export PATH; export BLASTDB; fi
 # the pipe and 'tail -n +2' excludes the first line
 for SRA_number in $(cut -f 6 data/metadata/fierer_forensic_hand_mouse_SraRunTable.txt | tail -n +2)
 do
-	fastq-dump -v $SRA_number -0 data/raw_data
+    fastq-dump -v $SRA_number -O data/raw_data
 done
