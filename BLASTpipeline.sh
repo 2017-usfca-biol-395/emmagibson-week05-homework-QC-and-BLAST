@@ -20,16 +20,24 @@ echo "downloaded raw data"
 # create QC reports for each run
 fastqc data/raw_data/*.fastq --outdir=output/fastqc
 
+# make directory for trimmed sequences and trimmed .fastas
+echo "making trimmed sequence directories..."
+mkdir data/trimmed_seqs data/trimmed_fasta
+echo "made trimmed sequence directories"
+
 # trim sequences based on quality scores
-# $@ should be something like 'data/raw_data/*.fastq'
-# first, make the output directory
-echo "making trimmed sequence directory..."
-mkdir data/trimmed_seqs
-echo "made trimmed sequence directory"
-echo "cleaning .fastq files..."
-for file in $@
+# decided not to use $@ because this script has multiple for loops
+echo "trimming .fastq files..."
+for file in data/raw_data/*.fastq
 do 
 	TrimmomaticSE -threads 2 -phred33 $file data/trimmed_seqs/$(basename -s .fastq $file).trim.fastq LEADING:5 TRAILING:5 SLIDINGWINDOW:8:25 MINLEN:150
 done
-echo "cleaned .fastq files"
+echo "trimmed .fastq files"
 
+# convert fastq files to fasta files for BLAST
+echo "creating .fasta copies of trimmed sequences..."
+for trimmed in data/trimmed_seqs/*.trim.fastq
+do
+	bioawk -c fastx '{print ">"$name"\n"$seq}' $trimmed > data/trimmed_fasta/$(basename -s .trim.fastq $trimmed).fasta
+done
+echo "created .fasta copies of trimmed sequences"
