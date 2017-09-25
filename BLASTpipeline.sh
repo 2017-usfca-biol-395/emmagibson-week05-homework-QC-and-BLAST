@@ -18,7 +18,7 @@ done
 echo "downloaded raw data"
 
 # create QC reports for each run
-echo fastqc data/raw_data/*.fastq --outdir=output/fastqc
+fastqc data/raw_data/*.fastq --outdir=output/fastqc
 
 # make directory for trimmed sequences and trimmed .fastas
 echo "making trimmed sequence directories..."
