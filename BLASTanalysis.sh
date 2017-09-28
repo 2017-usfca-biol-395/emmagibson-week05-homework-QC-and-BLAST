@@ -20,3 +20,6 @@ done
 
 # create one large .txt file containing name and count of each species
 # that appears in all samples
+echo "creating large summary file..."
+cut -d, -f1 output/BLAST_results/*.csv | sort | uniq -i -c | sort -n > output/BLAST_summaries/allsamples_summary.txt
+echo "created large summary file"
