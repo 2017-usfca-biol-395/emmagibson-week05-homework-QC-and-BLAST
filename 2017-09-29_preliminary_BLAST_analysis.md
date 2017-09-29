@@ -1,4 +1,4 @@
-#Sequence Quality Analysis
+# Sequence Quality Analysis
 
 Overall, the sequences from this file have about the same level of quality from one to
 the other, and all of them are reasonably high quality. Although they do taper off
@@ -8,9 +8,9 @@ have some minor dips in sequence quality around the middle, but they never dip b
 the yellow margin, so they are still high enough quality to use for sequence
 analysis.
 
-#BLAST sequence analysis
+# BLAST sequence analysis
 
-##General Results
+## General Results
 
 When I ran my first script to count the total number of each species in all samples,
 I found that there were three species that showed up more than a thousand times:
@@ -36,7 +36,7 @@ which species were more common on human hands (as opposed to mice) as well. In t
 regard, the only prominent species from the overall samples that was lacking from
 the human samples was the *M. occidentalis* symbiote.
 
-##Top Three Species Conclusions
+## Top Three Species Conclusions
 
 The most common species was the *S. pervernicosa* gill symbiote, which seems like
 an odd organism to find on a human hand. Three people and two mice had a large (>200) 
@@ -67,7 +67,7 @@ over the world, so it is very likely that it ended up on these computer mice bec
 someone who was not part of the study intrduced it to them.
 
 
-##Male-Female Differences Conclusions
+## Male-Female Differences Conclusions
 
 Overall, there were no major differences in the total number of bacteria found on male 
 vs female hands, although there were clear differences in which bacteria were common on 
