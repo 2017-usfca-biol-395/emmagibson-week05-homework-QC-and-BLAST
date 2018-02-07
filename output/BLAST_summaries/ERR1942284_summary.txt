@@ -1,0 +1,64 @@
+      1 Actinomadura sp. ATC26
+      1 Arthrobacter sp. 5
+      1 Bacillus sp. IDA1983
+      1 Brachybacterium paraconglomeratum
+      1 Brachybacterium sp. THG-DL23
+      1 Choricystis parasitica
+      1 Chryseobacterium sp.
+      1 Corynebacterium segmentosum
+      1 Curvibacter sp.
+      1 Dermacoccus sp.
+      1 Dermacoccus sp. cb8
+      1 Devosia sp. R41
+      1 Gulbenkiania sp.
+      1 Halomonas sp. NIMMe7
+      1 Janibacter sp.
+      1 Janibacter-like sp. V4.BO.43
+      1 Janthinobacterium sp.
+      1 Knoellia sp.
+      1 Loktanella sp.
+      1 Magnetospirillum bellicus
+      1 Microvirga sp.
+      1 Mycobacterium sp.;Klebsiella sp. EN1
+      1 Nocardia sp. X1037
+      1 Nocardioides sp. P3693
+      1 Propionibacterium acnes
+      1 Pseudarthrobacter sp.
+      1 Rhizobium sp.
+      1 Salinisphaera sp.
+      1 Shigella flexneri
+      1 Sphingobacteriaceae bacterium Gsoil 524
+      1 Staphylococcus sp. P33400VB04_16S_27f
+      1 Streptomyces sp.
+      1 Streptomyces sp. 14CM001
+      1 actinobacterium YJ6
+      1 bacterium SCGC AAA071-G16
+      1 bacterium ic1294
+      1 cyanobacterium cCLB-12
+      1 proteobacterium E4-1
+      2 Aquitalea sp. KJ011
+      2 Arthrobacter sp. 4J27
+      2 Corynebacterium tuberculostearicum
+      2 Cressa cretica
+      2 Fragaria nipponica
+      2 Melosira varians
+      2 Nocardioides albus
+      2 Staphylococcus sp.
+      2 Staphylococcus succinus subsp. casei
+      3 Arthrobacter sp. THG-GM14
+      3 Nocardioides albertani
+      4 Arthrobacter sp.
+      4 Brevibacterium sp.
+      4 Nocardioides sp.
+      5 Alphaproteobacteria bacterium
+      5 Intrasporangiaceae bacterium LCK-2009.8
+      6 Prunus cerasoides
+      7 Arthrobacter bergerei
+      8 Staphylococcus succinus subsp. succinus
+      9 Propionibacterium acnes subsp. acnes
+     11 Gordonia hydrophobica
+     12 Corynebacterium glutamicum
+     13 unidentified bacterium
+     18 Cardiobacterium sp. feline oral taxon 346
+     53 Staphylococcus succinus
+    441 Solemya pervernicosa gill symbiont

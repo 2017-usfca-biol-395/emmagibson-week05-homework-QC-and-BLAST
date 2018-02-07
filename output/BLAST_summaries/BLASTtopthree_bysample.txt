@@ -1,0 +1,80 @@
+Number of Solemya pervernicosa gill symbiont in ERR1942280: 0
+Number of Bartonella washoensis in ERR1942280: 2
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942280: 350
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942281: 0
+Number of Bartonella washoensis in ERR1942281: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942281: 4
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942282: 0
+Number of Bartonella washoensis in ERR1942282: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942282: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942283: 0
+Number of Bartonella washoensis in ERR1942283: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942283: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942284: 441
+Number of Bartonella washoensis in ERR1942284: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942284: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942285: 0
+Number of Bartonella washoensis in ERR1942285: 215
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942285: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942286: 371
+Number of Bartonella washoensis in ERR1942286: 1
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942286: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942287: 0
+Number of Bartonella washoensis in ERR1942287: 462
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942287: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942288: 0
+Number of Bartonella washoensis in ERR1942288: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942288: 809
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942289: 0
+Number of Bartonella washoensis in ERR1942289: 1
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942289: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942290: 0
+Number of Bartonella washoensis in ERR1942290: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942290: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942291: 560
+Number of Bartonella washoensis in ERR1942291: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942291: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942292: 3
+Number of Bartonella washoensis in ERR1942292: 645
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942292: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942293: 14
+Number of Bartonella washoensis in ERR1942293: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942293: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942294: 7
+Number of Bartonella washoensis in ERR1942294: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942294: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942295: 532
+Number of Bartonella washoensis in ERR1942295: 3
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942295: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942296: 0
+Number of Bartonella washoensis in ERR1942296: 254
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942296: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942297: 131
+Number of Bartonella washoensis in ERR1942297: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942297: 0
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942298: 1
+Number of Bartonella washoensis in ERR1942298: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942298: 1
+##########################
+Number of Solemya pervernicosa gill symbiont in ERR1942299: 312
+Number of Bartonella washoensis in ERR1942299: 0
+Number of Bacteroidetes endosymbiont of Metaseiulus occidentalis in ERR1942299: 0
+##########################

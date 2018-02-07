@@ -1,0 +1,265 @@
+      1 Acidobacteria bacterium UCL-109
+      1 Acidovorax sp. K-4-16
+      1 Acinetobacter baumannii Naval-18
+      1 Acinetobacter baumannii OIFC083
+      1 Acinetobacter baumannii OIFC143
+      1 Acinetobacter sp. DsA.N033
+      1 Acinetobacter sp. WN5(2010)
+      1 Acinetobacter venetianus
+      1 Actinomycetales bacterium
+      1 Actinoplanes sp. IR51-RC111
+      1 Actinotalea sp. 5GHs33-3
+      1 Afipia sp. alfa7-PCA-E3-2
+      1 Allobaculum stercoricanis DSM 13633
+      1 Amycolatopsis sp. SX2R71
+      1 Anaplasma marginale
+      1 Antarctic bacterium 3C8
+      1 Aquabacterium sp. P-111
+      1 Arthrobacter nicotianae
+      1 Arthrobacter sp. Bca54
+      1 Arthrobacter sp. I14A-01134
+      1 Arthrobacter sp. MYb224
+      1 Atopostipes sp. oral taxon B55
+      1 Azotobacter sp. L461
+      1 Bacillus sp. IDA4275
+      1 Bacillus sp. IDA4921
+      1 Bacteroidetes bacterium RL-C
+      1 Bartonella sp. TR-39
+      1 Bdellovibrio bacteriovorus
+      1 Bosea sp. LMG 26381
+      1 Brachybacterium paraconglomeratum
+      1 Brachybacterium sp. CH-KOV3
+      1 Brachybacterium sp. THG-DL23
+      1 Brevibacterium linens
+      1 Brevundimonas sp. EM171
+      1 Brevundimonas sp. HLS17
+      1 Burkholderia tropica;bacterium QTYC46b
+      1 Chryseobacterium soldanellicola
+      1 Clavibacter michiganensis subsp. michiganensis
+      1 Clostridiales bacterium oral taxon 075
+      1 Clostridium sp. 37hoe
+      1 Conexibacter sp. URHE0039
+      1 Corynebacterium tuberculostearicum
+      1 Coxiella endosymbiont of Amblyomma cajennense
+      1 Denitratisoma oestradiolicum
+      1 Dermacoccus sp.
+      1 Dermacoccus sp. MC10-14
+      1 Desulfovibrio fructosivorans
+      1 Desulfovibrio sp. ZIRB-2
+      1 Diaphorobacter sp. 8604S-37
+      1 Enterobacteriaceae bacterium
+      1 Enterococcus sp.
+      1 Firmicutes bacterium YJF1-16
+      1 Flavobacterium flaviflagrans
+      1 Flavobacterium sp. C_OB2.61
+      1 Flavobacterium sp. HME6133
+      1 Flavobacterium sp. S118.08.SCU.W.Gill.N
+      1 Flavobacterium sp. SC19
+      1 Glycomyces sp.
+      1 Hymenobacter sp. 9PNM-21
+      1 Hyphomonas sp. MOLA 55
+      1 Isoptericola sp.
+      1 Janibacter-like sp. V4.BO.43
+      1 Jeotgalicoccus sp. 218B4_12EMRSA
+      1 Knoellia sp. BA4(2011)
+      1 Lachnospiraceae bacterium DJF_VP30
+      1 Larix decidua
+      1 Leucobacter exalbidus
+      1 Luteimonas sp. UBH13
+      1 Lysobacter sp.
+      1 Marinobacter sp. YCSD73-1
+      1 Massilia brevitalea
+      1 Mesorhizobium thiogangeticum
+      1 Methylobacillus sp. OV
+      1 Methylobacillus sp. Z
+      1 Methylophilus sp. TWE2
+      1 Methylotenera mobilis
+      1 Methylovorus glucosotrophus
+      1 Microbulbifer celer
+      1 Microbulbifer sp. Bac197
+      1 Micrococcus sp.
+      1 Microgenomates (Roizmanbacteria) bacterium GW2011_GWC2_37_13
+      1 Micromonospora sp. WMMB 777
+      1 Micromonosporaceae bacterium YIM 65646
+      1 Microvirgula aerodenitrificans
+      1 Modestobacter versicolor
+      1 Mycobacterium sp.;Klebsiella sp. EN1
+      1 Myxococcales bacterium L1979
+      1 Neisseria sp. KH2364
+      1 Nocardioides jensenii
+      1 Novosphingobium resinovorum
+      1 Novosphingobium sp. B0.09-8
+      1 Nubsella sp. EsD18
+      1 Pararhodobacter sp. DQW12E6-69-1
+      1 Pedobacter boryungensis
+      1 Planomicrobium sp. ES2
+      1 Polaromonas sp.
+      1 Ponticoccus sp.
+      1 Promicromonospora sp.
+      1 Propionibacterium sp. NTS31307302
+      1 Pseudo-nitzschia seriata
+      1 Pseudonocardia alaniniphila
+      1 Pseudonocardia hydrocarbonoxydans
+      1 Psychrobacillus psychrodurans
+      1 Rhizobium cellulosilyticum
+      1 Rhizobium sp.
+      1 Roseomonas sp. M72C12B
+      1 Rubrobacter xylanophilus
+      1 Ruminococcus sp. P311
+      1 Shigella flexneri
+      1 Sorangiineae bacterium HB-1
+      1 Sorangiineae bacterium MSr9521
+      1 Sphingobacterium sp.
+      1 Sphingobium sp. THG-SQA7
+      1 Sphingobium yanoikuyae
+      1 Sphingomonas fennica
+      1 Sphingomonas sp. NSA_2
+      1 Sphingomonas sp. Ume53
+      1 Sphingorhabdus sp. WM51
+      1 Sporosarcina sp.
+      1 Sporosarcina sp. 106
+      1 Stackebrandtia sp. YIM 64602
+      1 Staphylococcus saccharolyticus
+      1 Staphylococcus xylosus
+      1 Streptococcus australis
+      1 Streptococcus pneumoniae
+      1 Streptococcus suis
+      1 Streptomyces atroolivaceus
+      1 Streptomyces sp. KLBMP1330
+      1 Streptosporangium sp. NEAU-GH7
+      1 Treponema sp. oral taxon 239
+      1 Uliginosibacterium gangwonense
+      1 Uliginosibacterium sp. M1-21
+      1 Undibacterium sp.
+      1 Vogesella perlucida
+      1 Zoogloea sp. AOPS-03-15
+      1 Zoogloea sp. EMB 17
+      1 Zoogloea sp. HJ1
+      1 [Clostridium] lituseburense
+      1 actinobacterium YJ6
+      1 alpha proteobacterium AKB-2008-KU10
+      1 alpha proteobacterium HIN3
+      1 anaerobic bacterium foal30
+      1 bacterium
+      1 bacterium C14
+      1 bacterium E2-126
+      1 bacterium E2-59
+      1 bacterium FB2012
+      1 bacterium IARFR2474
+      1 bacterium L14(2011b)
+      1 bacterium Miz1
+      1 bacterium N05
+      1 bacterium NLAE-zl-C461
+      1 bacterium V9D2013
+      1 bacterium VCD1001
+      1 bacterium YC-ZSS-LKJ140
+      1 bacterium endosymbiont of Otiorhynchus salicicola
+      1 bacterium symbiont of Bactrocera correcta
+      1 bacterium symbiont of Euplotes sp.
+      1 beta proteobacterium Gu1-7
+      1 filamentous bacterium Plant1 Iso8
+      1 proteobacterium E4-1
+      1 rumen bacterium R-21
+      2 Acidovorax caeni
+      2 Acinetobacter lwoffii
+      2 Acinetobacter sp.
+      2 Actinomadura sp. ATC26
+      2 Agrococcus baldri
+      2 Bacillus sp. IDA4715
+      2 Bradyrhizobium sp.
+      2 Corynebacterium sp. OT4
+      2 Enhydrobacter sp.
+      2 Erysipelatoclostridium sp. SNUG30370
+      2 Fragaria nipponica
+      2 Hydrogenophaga sp. SA_12
+      2 Methylophilus sp. LTK
+      2 Microbacterium sp.
+      2 Microlunatus panaciterrae
+      2 Miscanthus x giganteus
+      2 Moraxella equi
+      2 Neisseria subflava
+      2 Nocardia ignorata
+      2 Nocardioides sp.
+      2 Oceanicola sp. YCWB25-2
+      2 Paenibacillus sp. L2129
+      2 Paludibacterium yongneupense
+      2 Pasteurellaceae bacterium canine oral taxon 271
+      2 Prevotella melaninogenica
+      2 Promicromonospora sp. JCM 28265
+      2 Pseudomonas koreensis
+      2 Salinisphaera sp.
+      2 Sphingobium vulgare
+      2 Streptomyces sp. ATD211
+      2 Tuber borchii symbiont b-1BO
+      2 alpha proteobacterium HIN4
+      2 bacterium AC2028
+      2 bacterium WH5-5
+      2 rumen bacterium NK4A78
+      3 Acinetobacter baumannii
+      3 Azonexus caeni
+      3 Bartonella washoensis
+      3 Choricystis parasitica
+      3 Clostridiales bacterium T55CA4
+      3 Corynebacterium sp. CH82b_3T
+      3 Duganella zoogloeoides
+      3 Methylophilus quaylei
+      3 Microbacterium phyllosphaerae
+      3 Nocardioides sp. AP3
+      3 Pelomonas puraquae
+      3 Pseudomonas gessardii
+      3 Pseudomonas sp.
+      3 Rickettsiella endosymbiont of Ixodes tasmani
+      3 Sphingobacteriaceae bacterium Gsoil 524
+      3 Streptomyces sp. 14CM001
+      3 bacterium DQS-01
+      4 Acinetobacter calcoaceticus
+      4 Arthrobacter sp. 5
+      4 Bartonella sp. JB63
+      4 Beggiatoa sp. 'Guadeloupe FWI'
+      5 Halomonas sp. NIMMe7
+      5 Herbaspirillum sp.
+      5 Propionibacterium granulosum
+      5 Sphingomonas sp.
+      5 Streptococcus mitis
+      6 Candidatus Azospirillum massiliensis
+      6 Cloacibacterium sp. O15.2
+      7 Azospirillum sp. CC-LY736
+      7 Brachybacterium sp. BN5
+      7 Corynebacterium sp. YIM 101505
+      7 Escherichia coli
+      7 Flavobacterium sasangense
+      7 Janibacter sp.
+      7 Staphylococcus succinus subsp. succinus
+      7 Streptomyces sp.
+      8 Nocardioides sp. P3693
+      8 Prunus cerasoides
+      9 Arthrobacter bergerei
+      9 Intrasporangiaceae bacterium LCK-2009.8
+      9 bacterium endosymbiont of Onthophagus Taurus
+     10 Staphylococcus succinus subsp. casei
+     11 Marmoricola sp. S20-100
+     12 Gordonia hydrophobica
+     13 Nocardioides albertani
+     14 Arthrobacter sp.
+     14 Diaphorobacter sp.
+     14 Zoogloea caeni
+     16 Brevibacterium sp.
+     16 Lupinus angustiflorus
+     16 Streptococcus sp. HTS2
+     17 Staphylococcus sp.
+     18 Chionanthus retusus
+     19 Cloacibacterium normanense
+     21 Novosphingobium sp.
+     25 Acidovorax temperans
+     34 Alphaproteobacteria bacterium
+     38 Propionibacterium acnes subsp. acnes
+     51 Acinetobacter indicus
+     68 Cardiobacterium sp. feline oral taxon 346
+     68 Gulbenkiania sp.
+     93 unidentified bacterium
+    104 Staphylococcus succinus
+    117 Acinetobacter junii
+    127 Pinus oocarpa
+    170 Acidovorax sp.
+    500 Aquitalea sp. KJ011
+   1549 Solemya pervernicosa gill symbiont
